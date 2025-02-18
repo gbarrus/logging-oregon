@@ -20,8 +20,8 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oregon Lumber
-# tagline, a short phrase that will appear throughout the site in the top banner
+title: "Oregon Lumber"
+# tagline, "a short phrase that will appear throughout the site in the top banner"
 tagline: a collection of materials that document Oregon's History of Logging 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
