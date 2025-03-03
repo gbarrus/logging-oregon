@@ -1,34 +1,10 @@
-# CollectionBuilder-Sheets
+# DSCI/LIB 350M (Winter 2025) Human Research Data Management
 
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
-This enables live collaboration to prototype collections with minimal set up.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
+Course Description: This course provides students with theoretical and practical experience in collecting, processing, archiving, and publishing humanities data (images, video, sound, text, maps, etc.) gathered from galleries, libraries, archives, and museums (GLAMs). With the goal of building thematic digital collections as researchers, students will learn digital methodologies focusing on the technical, legal, ethical, and social aspects of working with humanities research data throughout its curation lifecycle. This includes hands-on experience finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities, and sharing thematic research digital collections using GitHub and the open-source platform CollectionBuilder.
 
-Visit the [CB-Sheets demo site](https://collectionbuilder.github.io/collectionbuilder-sheets/) to see it in action and even test your own metadata!
+Georgia Barrus is the GitHub Manager, and therefore was incharge of creating the repository. Our website URL is https://gbarrus.github.io/logging-oregon/. 
 
-To learn more check [docs/sheets-metadata.md](docs/sheets-metadata.md) or visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections.
+Our collection is titled: Oregon Lumber described as: This is a collection of photographs, newspaper articles, and artworks that express how logging has affected communities in Oregon. Some communities of note are logging workers, Indigenous tribes and local Oregonians. Each of these groups are impacted by the environmental, physical, and economic tolls of logging. Viewers of our collection will be immersed into a new perspective of historical documents that show how the lumber industry has shaped Oregon and its residents. Groups that may find this collection particularly interesting are conservationists, historians, and people affected by the logging across Oregon. These groups may use it for research papers, or to learn more about the state's history. The contents of this collection comes from Oregon Digital, University of Oregon’s Oregon Digital Newspaper Program, Oregon Public Broadcasting, and the World Forestry Center.
 
-Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh), but handles the metadata parsing in a fundamentally different way. 
-
-----------
-
-## CollectionBuilder 
-
-<https://collectionbuilder.github.io/>
-
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
-
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
-
-Questions can be directed to **collectionbuilder.team@gmail.com**
-
-## License
-
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+To view our Data Management Plan page, access it here: https://gbarrus.github.io/logging-oregon/dmp.html
+Our DMP consists of a description of our role responsibilities identifying our Project Manager as Eva Andrews, Github Manager as Georgia Barrus, and COllections Manager as Cora Stevens. Our data consists of PDFs, JPEGs, PNGs, and  MP4. Additionally, This digital collection will be kept  from January 2025 to June 2027, when the youngest member of our group graduates from the University of Oregon and loses access to our drive. For Data Storage and Preservation of Access our project will be saved to Zenodo, as it will allow our data to be safely stored for the future. This will ensure that our google document is also stored with our GitHub repository data. 
