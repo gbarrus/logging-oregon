@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="/assets/img//1903_COVER PIC ABOUT.jpeg" %}
 
 ## About Our Collection
 
