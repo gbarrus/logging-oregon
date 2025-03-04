@@ -10,39 +10,40 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## About Our Collection
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+# Project Manager - Eva Andrews 
+Undergraduate student studying Journalism with minors in Ethics and Digital Humanities. Responsible for ensuring work gets completed and submits  work for the group. She is from Oregon and has seen how the landscape has changed from logging, even if just recently. This project has been very interesting to learn more about the state's history surrounding logging. 
+# Github Manager - Georgia Barrus
+Undergraduate student studying Educational Foundations with minors in Native American and Indigenous Studies & Digital Humanities. Responsible for ensuring the success of our data and uploading it to GitHub. Being from Utah, she has grown up exploring forests and grew her passion for the outdoors when she  came to college here in Oregon. This project has grown her interest in Digital Humanities projects and she is looking forward to learning more in the future.
+# Collections Manager - Cora Stevens
+Undergraduate student studying  Women, Gender, and Sexuality studies with a minor in Art History. Responsible for ensuring all data collected is applicable to our topic and keeping our Google Docs organized. Besides WGSS, Cora is also passionate about conservation and caring for nature. This project bridges the gap between their interest in the environment, collection building, and showcasing underrepresented stories. 
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
+# Collection Description: 
+Our collection is based on a variety of photographs, newspaper articles, and artworks that express how logging has affected communities throughout the beautiful state of Oregon. Some communities of note are logging workers, Indigenous tribes, and local Oregonians. People who view our collection will be immersed into a new perspective of historical documents that show how the lumber industry has shaped Oregon and its residents. To view our data, please access our repository through this link: https://github.com/gbarrus/logging-oregon. The contents of this collection comes from Oregon Digital, University of Oregon’s Oregon Digital Newspaper Program, Oregon Public Broadcasting, and the World Forestry Center. Our hope is that our viewers will be immersed into the history of logging in Oregon, and will be inspired to do their own research and explore further curiosities.
 
-<button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
-    <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
-        <path d="M8 4.754a3.246 3.246 0 1 0 0 6.492 3.246 3.246 0 0 0 0-6.492zM5.754 8a2.246 2.246 0 1 1 4.492 0 2.246 2.246 0 0 1-4.492 0z"/>
-        <path d="M9.796 1.343c-.527-1.79-3.065-1.79-3.592 0l-.094.319a.873.873 0 0 1-1.255.52l-.292-.16c-1.64-.892-3.433.902-2.54 2.541l.159.292a.873.873 0 0 1-.52 1.255l-.319.094c-1.79.527-1.79 3.065 0 3.592l.319.094a.873.873 0 0 1 .52 1.255l-.16.292c-.892 1.64.901 3.434 2.541 2.54l.292-.159a.873.873 0 0 1 1.255.52l.094.319c.527 1.79 3.065 1.79 3.592 0l.094-.319a.873.873 0 0 1 1.255-.52l.292.16c1.64.893 3.434-.902 2.54-2.541l-.159-.292a.873.873 0 0 1 .52-1.255l.319-.094c1.79-.527 1.79-3.065 0-3.592l-.319-.094a.873.873 0 0 1-.52-1.255l.16-.292c.893-1.64-.902-3.433-2.541-2.54l-.292.159a.873.873 0 0 1-1.255-.52l-.094-.319zm-2.633.283c.246-.835 1.428-.835 1.674 0l.094.319a1.873 1.873 0 0 0 2.693 1.115l.291-.16c.764-.415 1.6.42 1.184 1.185l-.159.292a1.873 1.873 0 0 0 1.116 2.692l.318.094c.835.246.835 1.428 0 1.674l-.319.094a1.873 1.873 0 0 0-1.115 2.693l.16.291c.415.764-.42 1.6-1.185 1.184l-.291-.159a1.873 1.873 0 0 0-2.693 1.116l-.094.318c-.246.835-1.428.835-1.674 0l-.094-.319a1.873 1.873 0 0 0-2.692-1.115l-.292.16c-.764.415-1.6-.42-1.184-1.185l.159-.291A1.873 1.873 0 0 0 1.945 8.93l-.319-.094c-.835-.246-.835-1.428 0-1.674l.319-.094A1.873 1.873 0 0 0 3.06 4.377l-.16-.292c-.415-.764.42-1.6 1.185-1.184l.292.159a1.873 1.873 0 0 0 2.692-1.115l.094-.319z"/>
-    </svg> 
-    Change the Metadata!
-</button>
-{:.text-center}
 
-## Create your own Metadata
+# DSCI/LIB 350M (Winter 2025) Human Research Data Management
 
-To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
+# Instructor, Franny Gaede
 
-[CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-primary target="_blank" rel="noopener"}
-{:.text-center}
+# Course Support, Rayne Vieger
 
-Alternatively, you can [download the template CSV]({{ '/assets/metadata-template.csv' | relative_url }}) and work on your local machine.
-We suggest editing your CSV using [LibreOffice](https://www.libreoffice.org/) Calc, [OpenRefine](https://openrefine.org/), or Google Sheets (and do not suggest using Excel, since Excel's CSV output is not correctly formatted).
+# Course Support, Erin Winter
 
-Describe your items in your copy of the template, following the [Metadata Guidelines]({{ '/metadata.html' | relative_url }}). 
+# GLAMS: 
+-University of Oregon’s Historic Oregon Newspapers
 
-Once you have items added you can test your metadata by clicking the "Change the Metadata" button above.
+-Oregon Digital 
 
-## Learn More
+-The Oregon Historical Society 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+-The Library of Congress 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
+-Wikimedia 
+
+# Thank You!
+Thank you to our instructor, Franny Gaede, for the unwavering support that we have received throughout our digital repository project. Additionally, we want to give thanks to the course support that we have received advice from the entire term as well, so thank you Rayne, Erin, and Gabriele! For our group, the classroom environment was extremely beneficial for the success of our project, and we could not thank our classmates and instructors enough for contributing to that as a whole. As a result, there has been immense interest in digital archival projects by all three of our team members because of this project. Lastly, thank you to all of our individual support systems that made it possible for us to succeed in this term, which allowed for us to succeed in a multitude of ways.
+
+# Ownership
+We do not own anything in this collection. All of our objects can be used for educational purposes only. For more information please refer to the rights statements included in the description of the item. 
