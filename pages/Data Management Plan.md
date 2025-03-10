@@ -12,8 +12,10 @@ This is a collection of photographs, newspaper articles, and artworks that expre
 # Personnel, Roles & Responsibilities
 Project Manager - Eva Andrews 
   Undergraduate student studying Journalism with minors in Ethics and Digital Humanities. Responsible for ensuring work gets completed and submitting work for the group.	
+  
 Github Manager - Georgia Barrus
 	Undergraduate student studying Educational Foundations with minors in Native American and Indigenous Studies & Digital Humanities. Responsible for ensuring the success of our data and uploading it to GitHub.
+ 
 Collections Manager - Cora Stevens
 	Undergraduate student studying  Women, Gender, and Sexuality studies with a minor in Art History. Responsible for ensuring all data collected is applicable to our topic and keeping our Google Docs organized.
  
