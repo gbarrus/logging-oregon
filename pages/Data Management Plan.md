@@ -21,8 +21,9 @@ Collections Manager - Cora Stevens
 In our project, we have used tabular data in a Google Sheet and Github (https://github.com/gbarrus/logging-oregon)  to organize and record metadata to help format this collection. This data is displayed on our website that can be viewed here: https://gbarrus.github.io/logging-oregon/. Our website outputs our data in a format that is viewable for users to access. Additionally, we have used google drive to store the collection’s items and draft descriptions. Our data consists of PDFs, JPEGs, PNGs, and  MP4. 
 
 # Period of Data Retention
-This digital collection will be kept  from January 2025 to June 2027, when the youngest member of our group graduates from the University of Oregon and loses access to our drive. 
-Data Formats and Dissemination
+This digital collection will be kept  from January 2025 to June 2027, when the youngest member of our group graduates from the University of Oregon.
+
+# Data Formats and Dissemination
 
 | File Type | Size | Source | Rights |
 | -------- | ------- | -------- | -------- |
@@ -30,6 +31,7 @@ Data Formats and Dissemination
 | JPEG | 3.2577 Megabytes | Oregon Digital/Library of Congress/National Archives and Records Administration/Wikimedia Commons | Educational Permitted/Public Domain/No Copyright Known |
 | PNG | 2.493000 Megabytes | Oregon Digital/The Oregon Historical Society Digital Collections | Public Domain |
 | MP4 | 789 Megabytes | The Library of Congress | No Copyright Known |
+
 These items can be accessed and downloaded via Github or from the collection builder website, https://gbarrus.github.io/logging-oregon/.
 
 # Data Storage and Preservation of Access
