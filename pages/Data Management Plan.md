@@ -18,7 +18,7 @@ Collections Manager - Cora Stevens
 	Undergraduate student studying  Women, Gender, and Sexuality studies with a minor in Art History. Responsible for ensuring all data collected is applicable to our topic and keeping our Google Docs organized.
  
 # Expected Data
-In our project, we have used tabular data in a Google Sheet and Github to organize and record metadata to help format this collection. Additionally, we have used google drive to store the collection’s items and draft descriptions. Our data consists of PDFs, JPEGs, PNGs, and  MP4. 
+In our project, we have used tabular data in a Google Sheet and Github (https://github.com/gbarrus/logging-oregon)  to organize and record metadata to help format this collection. This data is displayed on our website that can be viewed here: https://gbarrus.github.io/logging-oregon/. Our website outputs our data in a format that is viewable for users to access. Additionally, we have used google drive to store the collection’s items and draft descriptions. Our data consists of PDFs, JPEGs, PNGs, and  MP4. 
 
 # Period of Data Retention
 This digital collection will be kept  from January 2025 to June 2027, when the youngest member of our group graduates from the University of Oregon and loses access to our drive. 
@@ -30,6 +30,7 @@ Data Formats and Dissemination
 | JPEG | 3.2577 Megabytes | Oregon Digital/Library of Congress/National Archives and Records Administration/Wikimedia Commons | Educational Permitted/Public Domain/No Copyright Known |
 | PNG | 2.493000 Megabytes | Oregon Digital/The Oregon Historical Society Digital Collections | Public Domain |
 | MP4 | 789 Megabytes | The Library of Congress | No Copyright Known |
+These items can be accessed and downloaded via Github or from the collection builder website, https://gbarrus.github.io/logging-oregon/.
 
 # Data Storage and Preservation of Access
 Our project will be saved to Zenodo, as it will allow our data to be safely stored for the future. This will ensure that our google document is also stored with our GitHub repository data. 
@@ -40,10 +41,6 @@ objectid - Unique identifier assigned by project team to reference the object wi
 filename - Name of the file including file type extension within the GitHub repository in the objects folder following the date_format# naming convention.
 
 title - Descriptive name of the object, generally given by the repository in which it was initially found, but otherwise assigned by project team to provide a brief descriptive name
-
-youtubeid- Did not use it in our Data project.
-
-vimeoid-  Did not use it in our Data project.
 
 creator- The person, group or company that created the item. Labelled as “unknown” if the creator is not known.
 
